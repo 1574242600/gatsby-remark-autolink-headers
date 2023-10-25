@@ -1,4 +1,4 @@
-let offsetY = 0
+/*let offsetY = 0
 
 const getTargetOffset = hash => {
   const id = window.decodeURI(hash.replace(`#`, ``))
@@ -46,3 +46,4 @@ exports.shouldUpdateScroll = ({ routerProps: { location } }) => {
   const offset = getTargetOffset(location.hash)
   return offset !== null ? [0, offset] : true
 }
+*/
